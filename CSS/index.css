@@ -1,0 +1,142 @@
+h1{
+    
+    font-family: 'Explora', cursive;
+    font-family: 'Merriweather', serif;
+    color:blueviolet;
+    width: 1000px;
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 50px;
+   
+
+}
+h2 {
+    font-family: 'Explora', cursive;
+    font-family: 'Merriweather', serif;
+    font-weight: bold;  
+    color: purple;
+    margin-top: 130px;
+    margin-left: 200px;
+    margin-bottom: 20px;
+    
+
+}
+
+h3{
+    font-family: 'Explora', cursive;
+    font-family: 'Merriweather', serif;
+    font-weight: bold;  
+    color: purple;
+    margin-left: 200px;
+    margin-top: 40px;
+   
+}
+ 
+
+body { background-color: lightpink;
+       font-style: oblique;
+}
+
+p {
+    font-weight: bold;    
+    color: darkblue;
+    width: 600px;
+    }
+
+p1{
+    color: darkblue;
+    max-width: 800px;
+    margin-bottom: 1px;
+    margin-top: 10px;
+    position: absolute;
+    padding: 30px;
+    
+}
+
+p2 {
+    margin-top: 10px;
+    float: left;
+    
+    }
+    
+p3{
+       position: relative;
+       left: 15px;
+       top: 17px;
+      color: darkblue;
+    }
+    
+
+
+img{
+    position: absolute;
+    left: 15px;
+    top: 10px;
+}
+
+form {
+    color: purple;
+    margin-top: 100px;
+    position: absolute;
+}
+
+a {
+    margin-bottom: 40px;
+    margin-top: 40px;
+    margin-left: 20px;
+    color: blue;
+    float:left
+}
+
+footer{
+    margin-top: 200px;
+    position: absolute; 
+    color: purple;
+}
+
+
+div {
+    padding: 15px;
+    width: 650px;
+    
+}
+
+@media (max-with:600px) {
+.facet_sidebar{display: none;}
+
+}
+
+.menu{
+    width: 25%;
+    float: left;
+}
+
+.main{
+    width: 75%;
+    float: left;
+}
+button{
+    color: black;
+    background-color: plum;
+    width: 150px;
+    margin-top: 5px;
+    margin-left: 15px;
+    padding: 5px;
+    float: left;
+    font-size: larger;
+   
+}
+
+span{
+    padding: 170px;
+    width: 90px;
+    margin-top: 5px;
+    
+}
+
+input {
+    background-color: plum;
+    color: black;
+    font: bolder;
+}
+
